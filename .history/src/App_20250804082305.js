@@ -1,5 +1,5 @@
 import React from "react";
-import SudokuSolver from "./SudokuSolver";
+import SudokuSolver from "./components/SudokuSolver";
 
 function App() {
   return <SudokuSolver />;
